@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CV-app/static/css/main.a402b441.css",
+    "main.js": "/CV-app/static/js/main.09c5028b.js",
+    "static/media/20190718_182322.jpg": "/CV-app/static/media/20190718_182322.eb9f0cb218e1fe923ee7.jpg",
+    "index.html": "/CV-app/index.html",
+    "main.a402b441.css.map": "/CV-app/static/css/main.a402b441.css.map",
+    "main.09c5028b.js.map": "/CV-app/static/js/main.09c5028b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a402b441.css",
+    "static/js/main.09c5028b.js"
+  ]
+}
