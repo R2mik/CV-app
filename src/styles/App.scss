@@ -1,0 +1,17 @@
+@import './variables';
+@import './Main.module';
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: $Poppins;
+    width: 100%;
+    color: $dark;
+}
+
+#root {
+    height: 100%;
+}
